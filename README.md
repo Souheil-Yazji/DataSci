@@ -35,6 +35,8 @@ Plotly is used for data visualization:<br />
 `import plotly.express as px`<br /><br />
 Seasborn is used as a correlation data visualization library:<br />
 `import seaborn`<br /><br />
+Numpy is used for list and matrix manipulation:<br />
+`import numpy as np`<br /><br />
 
 # Process
 

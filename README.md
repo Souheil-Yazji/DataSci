@@ -11,6 +11,7 @@ https://docs.google.com/presentation/d/1X4Ojl91RiWX5I9znxRgBedXdrkMLA_ymOeDivT_d
 - Souheil Yazji
 
 # Data Sets
+All datasets used can be found on [Google Drive](https://drive.google.com/drive/folders/1tBXJ3PLoZ2LZlE16XReC86nRiqYOcrj2?usp=sharing).
 
 ## Raw Data
 
@@ -34,6 +35,8 @@ Plotly is used for data visualization:<br />
 `import plotly.express as px`<br /><br />
 Seasborn is used as a correlation data visualization library:<br />
 `import seaborn`<br /><br />
+Numpy is used for list and matrix manipulation:<br />
+`import numpy as np`<br /><br />
 
 # Process
 

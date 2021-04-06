@@ -11,6 +11,7 @@ https://docs.google.com/presentation/d/1X4Ojl91RiWX5I9znxRgBedXdrkMLA_ymOeDivT_d
 - Souheil Yazji
 
 # Data Sets
+All datasets used can be found on [Google Drive](https://drive.google.com/drive/folders/1tBXJ3PLoZ2LZlE16XReC86nRiqYOcrj2?usp=sharing).
 
 ## Raw Data
 

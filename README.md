@@ -37,6 +37,8 @@ Seasborn is used as a correlation data visualization library:<br />
 `import seaborn`<br /><br />
 Numpy is used for list and matrix manipulation:<br />
 `import numpy as np`<br /><br />
+Matplotlib is used for creating plots:<br />
+`import matplotlib.pyplot as plt`<br /><br />
 
 # Process
 

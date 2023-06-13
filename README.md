@@ -3,6 +3,9 @@
 This project attempts to find a relation between diet and mental health. International data sets are used to calculate the correlation between dier and depression. It also attempts to use other known factors impacting mental health to compare with diet. This is done using Jupyter notebooks available in the Notebooks directory. Instructions for replication should be available in the nootbooks.<br /> 
 ## Presentation of Work
 https://docs.google.com/presentation/d/1X4Ojl91RiWX5I9znxRgBedXdrkMLA_ymOeDivT_dNfw/edit?usp=sharing
+
+[![Investigating the Relation of Diet and Mental Health](https://img.youtube.com/vi/UPDZiKJoW0M/0.jpg)](https://www.youtube.com/watch?v=UPDZiKJoW0M)
+
 ## Authors
 - Hoang Bui
 - Samuel Catherasoo
